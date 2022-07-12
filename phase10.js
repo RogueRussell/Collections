@@ -1,4 +1,4 @@
-import ScoreboardView from "./resources/phase10score/ScoreboardView.js";
+import ScoreboardView from "phase10score/ScoreboardView.js";
 
 let playerOneScore = 0;
 let playerTwoScore = 0;
